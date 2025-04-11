@@ -26,7 +26,7 @@ export default function HeroSection() {
   const [isLoading, setIsLoading] = useState(true);
   const [copied, setCopied] = useState(false);
   const controls = useAnimation();
-  const serverIP = "play.arisemc.com";
+  const serverIP = "play.arisemc.fun";
   const [showVIP, setShowVIP] = useState(true);
   const [isClient, setIsClient] = useState(false);
   const [loadingProgress, setLoadingProgress] = useState(0);
@@ -107,7 +107,7 @@ export default function HeroSection() {
 
   const scrollItems = [
     "🌟 NEW SEASON",
-    "🎉 1000+ PLAYERS",
+    "🎉 100+ PLAYERS",
     "⚔️ CUSTOM GAMEPLAY",
     "🎁 DAILY REWARDS",
     "🏆 COMPETITIVE",

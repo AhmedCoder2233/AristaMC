@@ -400,7 +400,7 @@ export default function MinecraftFeatures() {
                 }}
               />
               <code className="text-xl font-mono font-bold text-white select-all">
-                play.arisemc.com
+                play.arisemc.fun
               </code>
               <motion.button
                 className="ml-4 px-3 py-1 bg-purple-600 hover:bg-purple-500 rounded text-sm font-medium transition-colors"
